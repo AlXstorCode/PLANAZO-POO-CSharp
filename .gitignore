@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Archivos de trabajo personal
+CLAUDE.md
+.claude/
+Parcial*.md
